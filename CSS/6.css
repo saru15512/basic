@@ -1,0 +1,26 @@
+.all{
+  color:blueviolet;
+  background-color: aqua;
+  background-image:url("//static.whatsapp.net/rsrc.php/v4/yP/r/rYZqPCBaG70.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 10px;
+  width: 25px;
+  margin: 20px;
+padding-left: 30px;
+border: 15px;
+border-style: solid;
+border-color: blue;
+border-radius: 5px;
+} 
+.all1{
+  color: black;
+  background-color:aqua;
+  background-image: url("https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?semt=ais_hybrid");
+  background-size:contain;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  height: 200px;
+  width: 100px;
+  padding-left: 50px;
+}
